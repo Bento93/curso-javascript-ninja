@@ -22,9 +22,9 @@ Crie uma função que adicione um valor à variável criada acima, e retorne a s
     O valor da variável agora é VALOR.
 Onde VALOR é o novo valor da variável.
 */
-function myFuntion2() {
+function myFunction2() {
     myVar2 = 30;
-    return 'O valor da variável agora é' + myVar2;
+    return 'O valor da variável agora é ' + myVar2;
 };
 
 // Invoque a função criada acima.
@@ -58,7 +58,7 @@ myFunction3(10, 2);
 myFunction3(3, 3, 3);
 
 // Qual o resultado da invocação acima? (Use comentários para mostrar o valor retornado).
-// 28
+// 29
 
 /*
 Crie uma função com as seguintes características:
